@@ -70,3 +70,5 @@ Estimates return slow, standard, fast, and instant tiers with base fee, priority
   "instant": {"max_priority_fee": 4.50, "max_fee": 27.60}
 }
 ```
+
+<!-- generated: 2026-09-08 -->
