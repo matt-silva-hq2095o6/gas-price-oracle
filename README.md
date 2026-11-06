@@ -71,4 +71,4 @@ Estimates return slow, standard, fast, and instant tiers with base fee, priority
 }
 ```
 
-<!-- generated: 2026-11-05 -->
+<!-- generated: 2026-11-06 -->
